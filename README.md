@@ -17,10 +17,19 @@
 
 - No desafio tinhamos que corrigir o codigo ja existente deixa-lo usável.
 
-## 💻 Documentação do desafio
+<br/>
+
+## 📚 Documentação do desafio
 
 - [Desafio 3 - Chapter 1 NodeJS](https://chip-dryosaurus-9ab.notion.site/Chapter-I-Desafio-03-Corrigindo-o-c-digo-6f81cb448c83433598f378ca76989ff2)
 
+<br/>
+
+## 🖼️ Template do projeto?
+
+- [Template do projeto original para clone](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo)
+
+<br/>
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
